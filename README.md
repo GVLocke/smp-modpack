@@ -1,3 +1,3 @@
 # smp-modpack
 
-Small modpack with performance enhancements for my Private Server.
+Small modpack with performance/generation enhancements for my Private Server. Made with packwiz.
